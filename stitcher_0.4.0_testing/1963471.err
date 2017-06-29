@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.Exception: Series count differs between the files /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_201704.ome.tif    /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170408_105927_01x4x00024.rcpnl
+	at com.glencoesoftware.stitcher.io.MultiFileGridImageProvider.checkSeriesBetweenReaders(MultiFileGridImageProvider.java:163)
+	at com.glencoesoftware.stitcher.io.MultiFileGridImageProvider.populateMetadata(MultiFileGridImageProvider.java:425)
+	at com.glencoesoftware.stitcher.io.MultiFileGridImageProvider.processInput(MultiFileGridImageProvider.java:442)
+	at com.glencoesoftware.stitcher.Main$Stitch.process(Main.java:399)
+	at com.glencoesoftware.stitcher.Main.main(Main.java:1287)

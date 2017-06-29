@@ -1,0 +1,108 @@
+09:48:50.207 [main] INFO  com.glencoesoftware.stitcher.Main - Stitcher started
+09:48:50.345 [main] INFO  com.glencoesoftware.stitcher.Main - Stitching mode
+09:48:50.631 [main] INFO  com.glencoesoftware.stitcher.Main - Welcome to OpenCV 2.4.9.0
+09:48:50.633 [main] INFO  com.glencoesoftware.stitcher.Main - 1200x60
+09:48:50.635 [main] INFO  com.glencoesoftware.stitcher.Main - OpenCV Mat: Mat [ 60*1200*CV_64FC1, isCont=true, isSubmat=false, nativeObj=0x7f6c1c3d17e0, dataAddr=0x7f6c1c3d2830 ]
+09:48:50.644 [main] INFO  com.glencoesoftware.stitcher.Main - Shift 600.0, 30.0
+09:48:50.661 [main] INFO  com.glencoesoftware.stitcher.io.IO - Adding /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170408_105927_01x4x00024.rcpnl to input
+09:48:50.663 [main] INFO  com.glencoesoftware.stitcher.io.IO - Adding /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170408_134119_01x4x00024.rcpnl to input
+09:48:50.665 [main] INFO  com.glencoesoftware.stitcher.io.IO - Adding /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170410_081623_01x4x00024.rcpnl to input
+09:48:50.668 [main] INFO  com.glencoesoftware.stitcher.io.IO - Adding /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170411_083124_01x4x00024.rcpnl to input
+09:48:50.670 [main] INFO  com.glencoesoftware.stitcher.io.IO - Adding /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170412_080902_01x4x00024.rcpnl to input
+09:48:50.672 [main] INFO  com.glencoesoftware.stitcher.io.IO - Adding /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170414_080318_01x4x00024.rcpnl to input
+09:48:50.672 [main] INFO  com.glencoesoftware.stitcher.io.IO - Adding /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_201704.ome.tif to input
+09:48:50.672 [main] INFO  com.glencoesoftware.stitcher.Main - Processing 7 files
+09:48:51.214 [main] INFO  loci.formats.ImageReader - DeltavisionReader initializing /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170408_105927_01x4x00024.rcpnl
+09:48:51.216 [main] INFO  loci.formats.FormatHandler - Reading header
+09:48:51.220 [main] INFO  loci.formats.FormatHandler - Populating core metadata
+09:48:51.220 [main] INFO  loci.formats.FormatHandler - Reading extended header
+09:48:51.233 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:48:51.299 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:48:51.313 [main] INFO  loci.formats.FormatHandler - Reading header
+09:48:51.388 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:48:51.391 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:48:54.576 [main] INFO  loci.common.xml.XMLTools - Parsing schema path
+09:48:54.811 [main] INFO  loci.common.xml.XMLTools - http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd
+09:48:54.819 [main] INFO  loci.common.xml.XMLTools - Validating OME-XML
+09:48:58.786 [main] INFO  loci.common.xml.XMLTools - No validation errors found.
+09:48:58.917 [main] INFO  loci.formats.ImageReader - DeltavisionReader initializing /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170408_134119_01x4x00024.rcpnl
+09:48:58.918 [main] INFO  loci.formats.FormatHandler - Reading header
+09:48:58.918 [main] INFO  loci.formats.FormatHandler - Populating core metadata
+09:48:58.919 [main] INFO  loci.formats.FormatHandler - Reading extended header
+09:48:58.919 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:48:58.986 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:48:58.987 [main] INFO  loci.formats.FormatHandler - Reading header
+09:48:58.987 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:48:58.988 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:02.296 [main] INFO  loci.common.xml.XMLTools - Parsing schema path
+09:49:02.378 [main] INFO  loci.common.xml.XMLTools - http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd
+09:49:02.379 [main] INFO  loci.common.xml.XMLTools - Validating OME-XML
+09:49:03.195 [main] INFO  loci.common.xml.XMLTools - No validation errors found.
+09:49:03.269 [main] INFO  loci.formats.ImageReader - DeltavisionReader initializing /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170410_081623_01x4x00024.rcpnl
+09:49:03.270 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:03.270 [main] INFO  loci.formats.FormatHandler - Populating core metadata
+09:49:03.270 [main] INFO  loci.formats.FormatHandler - Reading extended header
+09:49:03.272 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:03.288 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:03.323 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:03.324 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:03.324 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:05.606 [main] INFO  loci.common.xml.XMLTools - Parsing schema path
+09:49:05.610 [main] INFO  loci.common.xml.XMLTools - http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd
+09:49:05.610 [main] INFO  loci.common.xml.XMLTools - Validating OME-XML
+09:49:05.845 [main] INFO  loci.common.xml.XMLTools - No validation errors found.
+09:49:05.867 [main] INFO  loci.formats.ImageReader - DeltavisionReader initializing /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170411_083124_01x4x00024.rcpnl
+09:49:05.868 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:05.868 [main] INFO  loci.formats.FormatHandler - Populating core metadata
+09:49:05.868 [main] INFO  loci.formats.FormatHandler - Reading extended header
+09:49:05.868 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:05.870 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:05.871 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:05.872 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:05.872 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:06.790 [main] INFO  loci.common.xml.XMLTools - Parsing schema path
+09:49:06.814 [main] INFO  loci.common.xml.XMLTools - http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd
+09:49:06.815 [main] INFO  loci.common.xml.XMLTools - Validating OME-XML
+09:49:06.927 [main] INFO  loci.common.xml.XMLTools - No validation errors found.
+09:49:06.998 [main] INFO  loci.formats.ImageReader - DeltavisionReader initializing /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170412_080902_01x4x00024.rcpnl
+09:49:07.000 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:07.000 [main] INFO  loci.formats.FormatHandler - Populating core metadata
+09:49:07.000 [main] INFO  loci.formats.FormatHandler - Reading extended header
+09:49:07.020 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:07.026 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:07.027 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:07.028 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:07.028 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:07.523 [main] INFO  loci.common.xml.XMLTools - Parsing schema path
+09:49:07.526 [main] INFO  loci.common.xml.XMLTools - http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd
+09:49:07.526 [main] INFO  loci.common.xml.XMLTools - Validating OME-XML
+09:49:07.617 [main] INFO  loci.common.xml.XMLTools - No validation errors found.
+09:49:07.626 [main] INFO  loci.formats.ImageReader - DeltavisionReader initializing /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170414_080318_01x4x00024.rcpnl
+09:49:07.628 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:07.628 [main] INFO  loci.formats.FormatHandler - Populating core metadata
+09:49:07.628 [main] INFO  loci.formats.FormatHandler - Reading extended header
+09:49:07.631 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:07.660 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:07.661 [main] INFO  loci.formats.FormatHandler - Reading header
+09:49:07.661 [main] INFO  loci.formats.FormatHandler - Populating original metadata
+09:49:07.662 [main] INFO  loci.formats.FormatHandler - Populating OME metadata
+09:49:08.876 [main] INFO  loci.common.xml.XMLTools - Parsing schema path
+09:49:08.881 [main] INFO  loci.common.xml.XMLTools - http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd
+09:49:08.882 [main] INFO  loci.common.xml.XMLTools - Validating OME-XML
+09:49:08.956 [main] INFO  loci.common.xml.XMLTools - No validation errors found.
+09:49:09.082 [main] INFO  loci.formats.ImageReader - TiffDelegateReader initializing /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_201704.ome.tif
+09:49:09.083 [main] INFO  loci.formats.in.MinimalTiffReader - Reading IFDs
+09:49:09.093 [main] INFO  loci.formats.in.MinimalTiffReader - Populating metadata
+09:49:09.132 [main] INFO  loci.formats.in.TiffReader - Checking comment style
+09:49:09.133 [main] INFO  loci.formats.in.BaseTiffReader - Populating OME metadata
+09:49:09.162 [main] INFO  loci.common.xml.XMLTools - Parsing schema path
+09:49:09.163 [main] INFO  loci.common.xml.XMLTools - http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd
+09:49:09.163 [main] INFO  loci.common.xml.XMLTools - Validating OME-XML
+09:49:09.173 [main] INFO  loci.common.xml.XMLTools - No validation errors found.
+09:49:09.173 [main] INFO  c.g.s.io.MultiFileGridImageProvider - Checking /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170408_105927_01x4x00024.rcpnl
+09:49:09.173 [main] INFO  c.g.s.io.MultiFileGridImageProvider - Checking /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170408_134119_01x4x00024.rcpnl
+09:49:09.173 [main] INFO  c.g.s.io.MultiFileGridImageProvider - Checking /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170410_081623_01x4x00024.rcpnl
+09:49:09.174 [main] INFO  c.g.s.io.MultiFileGridImageProvider - Checking /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170411_083124_01x4x00024.rcpnl
+09:49:09.174 [main] INFO  c.g.s.io.MultiFileGridImageProvider - Checking /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170412_080902_01x4x00024.rcpnl
+09:49:09.174 [main] INFO  c.g.s.io.MultiFileGridImageProvider - Checking /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_20170414_080318_01x4x00024.rcpnl
+09:49:09.174 [main] INFO  c.g.s.io.MultiFileGridImageProvider - Checking /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/BP40/Scan_201704.ome.tif
