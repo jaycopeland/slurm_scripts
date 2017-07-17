@@ -11,5 +11,7 @@
 #SBATCH --mail-type=END         # Mail when the job ends  
 #write command-line commands below this line
 AA=("$@")
-echo ${AA[$SLURM_ARRAY_TASK_ID]}
-ls -al /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/${AA[$SLURM_ARRAY_TASK_ID]}
+~/sticher-0.4.0/bin/sticher stitch \
+--overwrite \
+--input /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/hi_res/${AA[$SLURM_ARRAY_TASK_ID]}/Scan* \
+--output /n/scratch2/jc168/ZM_CYCIF1_059_ITOX/stitcher0.4.0_output/${AA[$SLURM_ARRAY_TASK_ID]}.stitcher040.ome.tif
